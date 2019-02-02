@@ -57,7 +57,7 @@ public class App
     	stream = Stream.of("a", "b", "c", "d");
     	System.out.println(stream.collect(Collectors.toList()));
     	
-    	
+    	//watch
     }   
    
     private static String apply(String a, String b){    	
